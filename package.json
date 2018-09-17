@@ -1,0 +1,22 @@
+{
+  "name": "sarvodaya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anush93/Sarvodaya.git"
+  },
+  "author": "Anush Wickramarachchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anush93/Sarvodaya/issues"
+  },
+  "homepage": "https://github.com/Anush93/Sarvodaya#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
